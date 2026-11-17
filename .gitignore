@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+venv/
+.streamlit/secrets.toml
+*.pdf
+.env
+streamlit.log
+pip_install.log
+pip_stage1.log
+pip_stage2.log
+.runhome/
